@@ -2,9 +2,10 @@
   "email": "teste@teste.com",
   "produto": "Member-6",
   "upsells_comprados": [
-    1
+    1,
+    "Bolo-Maracuja"
   ],
-  "data": "2025-08-07T12:41:18.892Z",
-  "transacao_id": "test_574664",
+  "data": "2025-08-07T12:42:40.555Z",
+  "transacao_id": "test-card-1754570560555",
   "acesso_liberado": true
 }
